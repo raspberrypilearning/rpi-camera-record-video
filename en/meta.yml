@@ -1,20 +1,19 @@
-title: rpi-camera-record-video
-hero_image: images/banner.png
-description: rpi-camera-record-video description
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+title: Recording a video with a Raspberry Pi and PiCamera
+hero_image: 
+description: Record video with PiCamera
+theme: red
+duration: 1
 version: 4
 listed: false
-ingredient: false
+ingredient: true
 copyedit: false
 last_tested: "2018-03-26"
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "art and design, photography, physical computing, games, animals, big-project, jokes/pranks, space, nature/outside/weather, music/sound, robots, geography"
-technologies: "electronic-components, electronics, sense-hat, physical computing, scratch, python, raspberry-pi, html/css, blender"
-hardware: "electronic-components, raspberry-pi, sense-hat"
-software: "python, scratch"
-site_areas:
+curriculum: 
+interests: 
+technologies: 
+hardware: 
+software: 
+site_areas: projects
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Recording a video with a Raspberry Pi and PiCamera
+
