@@ -1,6 +1,6 @@
-title: Recording a video with a Raspberry Pi and PiCamera
+title: Recording a video with a Raspberry Pi and Camera Module
 hero_image: 
-description: Record video with PiCamera
+description: Record video with the Camera Module
 theme: red
 duration: 1
 version: 4
@@ -15,5 +15,5 @@ hardware:
 software: 
 site_areas: projects
 steps:
-  - title: Recording a video with a Raspberry Pi and PiCamera
+  - title: Recording a video with a Raspberry Pi and Camera Module
 
