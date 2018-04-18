@@ -1,6 +1,6 @@
-## Recording a video with a Raspberry Pi and PiCamera
+## Recording a video with a Raspberry Pi and Camera Module
 
-- With the camera connected the following code would record 15 seconds of video footage and save it as `my_video.h264`.
+- With the camera connected, the following code will record 15 seconds of video footage and save it as `my_video.h264`.
 
 ```python
 from picamera import Picamera
@@ -11,4 +11,4 @@ camera.wait_recording(15)
 camera.stop_recording()
 ```
 
-- By changing the time number of seconds within `camera.wait_recording()`, longer or shorter video clips can be played.
+- By changing the number of seconds within `camera.wait_recording()`, longer or shorter video clips can be played.
