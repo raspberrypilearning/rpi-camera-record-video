@@ -8,6 +8,7 @@ from picamzero import Camera
 cam = Camera()
 cam.start_preview()
 cam.record_video("test.mp4", duration=5)
+cam.stop_preview()
 ```
 
-- By changing the number of seconds within `duration=5`, longer or shorter video clips can be played.
+- By changing the number of seconds within `duration=5`, longer or shorter video clips can be recorded.
